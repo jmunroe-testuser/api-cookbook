@@ -42,6 +42,11 @@ authors:
     orcid: https://orcid.org/0000-0001-8155-8038
     website: https://github.com/kmpaul
     affiliation: NVIDIA
+  - family-names: Munroe
+    given-names: James
+    orcid: https://orcid.org/0000-0001-9098-6309
+    website: https://github.com/jmunroe
+    affiliation: 2i2c
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/api-cookbook/graphs/contributors"
 title: "Cookbook Template"
